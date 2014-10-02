@@ -20,6 +20,6 @@ We will be looking to develop requirements for a web application, and possibly a
 
 Some key components we have identified are: This is where we can talk about the materials we produced during our in class activity.
 
-	The client has mentioned that she is concerned about the maintenance involved in keeping an application running after the completion of the course semester. We will have to discuss potential solutions, or present the minimum requirements for maintaining the application. 
+The client has mentioned that she is concerned about the maintenance involved in keeping an application running after the completion of the course semester. We will have to discuss potential solutions, or present the minimum requirements for maintaining the application. 
 
 Immediately recognizable stakeholders include Ashley, the WFCAN, new high school graduates and their families. 
